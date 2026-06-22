@@ -1,13 +1,13 @@
+:root {
+  --bg: #0f172a;
+  --bg-light: #111827;
+  --accent: #f97316;
+  --text: #ffffff;   /* pure white */
+  --muted: #ffffff;  /* also white */
+  --card: #020617;
+  --border: #1f2937;
+}
 
-root {
-      --bg: #0f172a;
-      --bg-light: #111827;
-      --accent: #f97316;
-      --text: #ffffff;
-      --muted: #9ca3af;
-      --card: #020617;
-      --border: #1f2937;
-    }
 
     * {
       margin: 0;

@@ -281,9 +281,10 @@
     }
 
     .section-kicker {
-      font-size: 0.75rem;
+      font-size: 18px;
       text-transform: uppercase;
       letter-spacing: 0.18em;
+      font-weight: 600;
       color: var(--accent);
       margin-bottom: 0.25rem;
     }
